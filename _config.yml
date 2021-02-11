@@ -1,7 +1,7 @@
 # Setup
 title:               Won's blog
 tagline:             'Hello World!'
-description:         '헬로우 <a href="https://jekyllrb.com" target="_blank">Won's blog</a> 온것 환영 <a href="https://twitter.com/won" target="_blank">@won</a>에 연락바람.'
+description:         'hello <a href="https://jekyllrb.com" target="_blank">Won's blog</a> page <a href="https://twitter.com/won" target="_blank">@won</a> contact me.'
 url:                 'https://myjungjw.github.io'
 baseurl:             ''
 paginate:            5
