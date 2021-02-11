@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello Won's Blog
+comments: true
 ---
 
 It's My First Test on My Blog
@@ -27,3 +28,5 @@ print("hello world")
 adder(2, 6)
 // > 8
 {% endhighlight %}
+
+
