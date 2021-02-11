@@ -1,8 +1,7 @@
 # Setup
 title:               Won's blog
 tagline:             'Hello World!'
-description:         'hello <a href="https://jekyllrb.com" target="_blank">Won's blog</a> page <a href="https://twitter.com/won" target="_blank">@won</a> contact me.'
-url:                 'https://myjungjw.github.io'
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@won</a>.'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
